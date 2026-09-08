@@ -4,7 +4,7 @@
 
 ## What This Project Does
 
-This project builds an ETF by analyzing over 7 million rows of historical stock market data from the NYSE and NASDAQ exchanges. You give it a list of stocks you own (ex: Apple, Microsoft and NVIDIA) and it finds ETFs that act most similar to those stocks in the past. This lets investors find ETFs that may not have been on their radar that fit their existing investment style – without requiring any financial expertise to use. The system is entirely built on Apache Spark, which is a distributed computing framework intended to process data sets that are too large for one machine.
+This project builds an ETL by analyzing over 7 million rows of historical stock market data from the NYSE and NASDAQ exchanges. You give it a list of stocks you own (ex: Apple, Microsoft and NVIDIA) and it finds ETFs that act most similar to those stocks in the past. This lets investors find ETFs that may not have been on their radar that fit their existing investment style – without requiring any financial expertise to use. The system is entirely built on Apache Spark, which is a distributed computing framework intended to process data sets that are too large for one machine.
 
 
 
